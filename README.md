@@ -40,7 +40,7 @@ $SMTPClient.Credentials = New-Object System.Net.NetworkCredential(“example@out
 Copyright 2020 Harsh & Sahista
 
 # Contribution
-[Harsh Parecha] (https://github.com/TheLastJediCoder)
+[Harsh Parecha] (https://github.com/TheLastJediCoder)<br>
 [Sahista Patel] (https://github.com/Sahista-Patel)<br>
 We love contributions, please comment to contribute!
 
