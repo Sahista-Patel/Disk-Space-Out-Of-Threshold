@@ -1,6 +1,6 @@
 ﻿<#
 .SYNOPSIS
-    This script will fetch the number of disks available in system with its Total space (in GigaByte), Free space (in GigaByte) as well as in (%).
+    This script will fetch the number of disks available in system and [if it crosses the mentioned threshold in code] with its Total space (in GigaByte), Free space (in GigaByte) as well as in (%).
     For each server provided in server list it will create a table and insert in final table. 
     The html file be created as well as an E-Mail will be send to given E-Mail id with details in body of the Email.
 
