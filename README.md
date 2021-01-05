@@ -17,7 +17,7 @@ Free Space (%) - Free Space of the respective Drive in Ratio (%)<br>
 # Use
 
 Open Powershell<br>
-run "C:\Top10_CPU_Memory.ps1"
+run "C:\Disk-Space.ps1"
 
 # Input
 Server list file path to (example) {$path = "C:\server_list.txt"}<br>
